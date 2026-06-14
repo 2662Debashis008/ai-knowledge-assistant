@@ -1,0 +1,17 @@
+[
+  {
+    "question":
+    "What is KidCare?",
+
+    "expected_source":
+    "KidCare Platform Overview.docx"
+  },
+
+  {
+    "question":
+    "What is Synthesia?",
+
+    "expected_source":
+    "Case Study - Generative AI Tools.pdf"
+  }
+]

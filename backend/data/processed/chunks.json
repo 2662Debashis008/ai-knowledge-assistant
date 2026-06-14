@@ -1,0 +1,1018 @@
+[
+    {
+        "chunk_id": "Case Study - Generative AI Applications in Key Industries.pdf_0",
+        "text": "CASE STUDY: GENERATIVE AI ACROSS KEY SECTORS \nGenerative AI has carved a niche in various vital sectors such as health, \nfinance, and marketing. Here's a revamped look at its applications: \n \nHealthcare: Healthcare stands on the cusp of a revolution, with many \norganizations integrating generative AI. Doctors can now utilize AI to tailor \ncare plans to enhance patient recovery. Additionally, AI technologies now \nenhance the clarity of MRI, CT, and PET scan images, leading to quicker",
+        "metadata": {
+            "source": "Case Study - Generative AI Applications in Key Industries.pdf",
+            "chunk": 0
+        }
+    },
+    {
+        "chunk_id": "Case Study - Generative AI Applications in Key Industries.pdf_1",
+        "text": "diagnosis and treatment. \nManufacturing: Generative AI streamlines the manufacturing process. \nAlgorithms are capable of conjuring product designs based on set \nparameters, eliminating the slower manual design process. Furthermore, AI-\ndriven predictive maintenance spots potential equipment failures, avoiding \nexpensive stoppages. \nAgriculture: AI's predictive maintenance isn't limited to manufacturing, \nfarming benefits too. Pioneers like John Deere employ AI to enable cameras",
+        "metadata": {
+            "source": "Case Study - Generative AI Applications in Key Industries.pdf",
+            "chunk": 1
+        }
+    },
+    {
+        "chunk_id": "Case Study - Generative AI Applications in Key Industries.pdf_2",
+        "text": "to identify and weed out subpar plants, optimizing yields. AI also aids in \nmonitoring crop health through imaging and predicting climatic changes \nthrough satellite data. \nFinance: Bloomberg\u2019s recent AI model, BloombergGPT, showcases the \nfinance industry's foray into AI. From AI chat interfaces assisting banking \ntransactions to AI-driven financial data analysis for investment insights, the \nfinance sector is evolving.",
+        "metadata": {
+            "source": "Case Study - Generative AI Applications in Key Industries.pdf",
+            "chunk": 2
+        }
+    },
+    {
+        "chunk_id": "Case Study - Generative AI Applications in Key Industries.pdf_3",
+        "text": "finance sector is evolving. \nEducation: Generative AI is transforming education. It crafts individualized \nlearning paths based on student performance. Tools like ChatGPT can act as \nbrainstorming aids for challenging assignments. Additionally, educators can \nuse AI to devise lesson plans, design assignments, and generate tests. \nCybersecurity: As digital threats evolve, cybersecurity must keep pace. \nGenerative AI models simulate potential risk scenarios, enabling security",
+        "metadata": {
+            "source": "Case Study - Generative AI Applications in Key Industries.pdf",
+            "chunk": 3
+        }
+    },
+    {
+        "chunk_id": "Case Study - Generative AI Applications in Key Industries.pdf_4",
+        "text": "checks. By studying past incidents, AI anticipates future vulnerabilities, \nenabling proactive defense strategies. \n \n \nAdvertising & Marketing: Digital marketing is intertwined with AI. AI \ntools, like ChatGPT, facilitate content brainstorming and ad copy generation. \nThey also produce brand-centric imagery for campaigns, ideate based on \nSEO keywords, draft concise versions of lengthy articles, and translate \npromotional content. \nDiving into Generative AI Tools",
+        "metadata": {
+            "source": "Case Study - Generative AI Applications in Key Industries.pdf",
+            "chunk": 4
+        }
+    },
+    {
+        "chunk_id": "Case Study - Generative AI Applications in Key Industries.pdf_5",
+        "text": "Diving into Generative AI Tools \nSeveral generative AI tools, ranging from ChatGPT to Google\u2019s Bard, exist. \nChatGPT: Developed by OpenAI, it's a versatile AI chatbot that can handle \nqueries ranging from historical facts to code debugging. One caveat: its \ntraining data only extends up to 2021, which can result in outdated or \nimprecise information. \nDALL-E: Another gem from OpenAI, DALL-E crafts images based on user",
+        "metadata": {
+            "source": "Case Study - Generative AI Applications in Key Industries.pdf",
+            "chunk": 5
+        }
+    },
+    {
+        "chunk_id": "Case Study - Generative AI Applications in Key Industries.pdf_6",
+        "text": "descriptions. It can create unique visuals, making it useful for applications \nlike book cover designs or web graphics. \nLaMDA & Google Bard: LaMDA, Google's conversational AI built on the \nTransformer neural network, powers Google Bard. Unlike ChatGPT, Bard \nfetches current information from the web, offering up-to-date insights. \nBing AI: Microsoft's Bing integrates an AI chat interface that delivers prompt \nresponses to queries. Built on OpenAI's GPT-4, it's Microsoft's answer to its",
+        "metadata": {
+            "source": "Case Study - Generative AI Applications in Key Industries.pdf",
+            "chunk": 6
+        }
+    },
+    {
+        "chunk_id": "Case Study - Generative AI Applications in Key Industries.pdf_7",
+        "text": "competitors. \nGenerative vs. Discriminative AI: While generative AI crafts new content \nfrom prior data, discriminative AI focuses on categorizing data. The latter \naids in distinguishing between data sets, like determining outcomes in binary \nchoices. \nConclusion: As generative AI continues its upward trajectory across \nindustries, its full potential remains to be seen. Despite the numerous \nadvantages, a cautious and strategic approach is vital when embedding AI \ninto business processes.",
+        "metadata": {
+            "source": "Case Study - Generative AI Applications in Key Industries.pdf",
+            "chunk": 7
+        }
+    },
+    {
+        "chunk_id": "Case Study - Generative AI Applications in Key Industries.pdf_8",
+        "text": "into business processes. \n \nReferences:  \nhttps://www.eweek.com/artificial-intelligence/generative-ai-examples/",
+        "metadata": {
+            "source": "Case Study - Generative AI Applications in Key Industries.pdf",
+            "chunk": 8
+        }
+    },
+    {
+        "chunk_id": "Case Study - Transformers in Machine Translation.pdf_0",
+        "text": "CASE STUDY: TRANSFORMERS REVOLUTIONIZING MACHINE \nTRANSLATION \nIntroduction \nIn the digital era, the necessity for real-time, efficient, and accurate machine \ntranslation (MT) has grown exponentially. As businesses globalize and \npeople connect across cultures, machine translation becomes an \nindispensable tool. Among various advancements in this field, the \ndevelopment \nof \nTransformer \narchitecture \nhas \nbeen \nparticularly",
+        "metadata": {
+            "source": "Case Study - Transformers in Machine Translation.pdf",
+            "chunk": 0
+        }
+    },
+    {
+        "chunk_id": "Case Study - Transformers in Machine Translation.pdf_1",
+        "text": "architecture \nhas \nbeen \nparticularly \ngroundbreaking. This case study explores the transformative impact of \nTransformers on machine translation, diving into the challenges faced by the \nfictitious organization, GlobeTech International, and its use cases. \nBackground \nGlobeTech International is a global e-commerce platform with a diverse \ncustomer base spread across 80 countries. The platform needed to cater to \nusers in a multitude of languages and deliver a seamless shopping",
+        "metadata": {
+            "source": "Case Study - Transformers in Machine Translation.pdf",
+            "chunk": 1
+        }
+    },
+    {
+        "chunk_id": "Case Study - Transformers in Machine Translation.pdf_2",
+        "text": "experience. Their traditional machine translation methods faced issues like \ninaccurate translations, longer processing times, and lack of context \nunderstanding. \nChallenges Faced \n1. Contextual Translation: Earlier machine translation models, like \nPhrase-Based and Statistical Machine Translation, struggled to \nmaintain the contextual meaning, especially with long sentences. \nGlobeTech's product descriptions and user reviews often ended up \nsounding incoherent or incorrect when translated.",
+        "metadata": {
+            "source": "Case Study - Transformers in Machine Translation.pdf",
+            "chunk": 2
+        }
+    },
+    {
+        "chunk_id": "Case Study - Transformers in Machine Translation.pdf_3",
+        "text": "2. Processing Time: With millions of product listings and an expanding \nuser base, speed was crucial. Previous MT models took longer to \nprocess translations, leading to increased server costs and a slower \nuser experience. \n3. Scalability: As GlobeTech ventured into new markets, they needed \nto include more languages. Traditional MT models required extensive \nre-training and fine-tuning for each new language. \nTransformers to the Rescue",
+        "metadata": {
+            "source": "Case Study - Transformers in Machine Translation.pdf",
+            "chunk": 3
+        }
+    },
+    {
+        "chunk_id": "Case Study - Transformers in Machine Translation.pdf_4",
+        "text": "Transformers to the Rescue \nTransformers, introduced in the paper \"Attention Is All You Need\" by \nVaswani et al., brought a paradigm shift in machine translation. Their unique \nmechanism, particularly the attention mechanism, allowed models to focus \non different parts of an input sentence, grasping the context much more \neffectively. \nBenefits Observed by GlobeTech: \n1. Improved Translation Quality: Transformers\u2019 self-attention \nmechanism allowed the models to consider the entire context of a",
+        "metadata": {
+            "source": "Case Study - Transformers in Machine Translation.pdf",
+            "chunk": 4
+        }
+    },
+    {
+        "chunk_id": "Case Study - Transformers in Machine Translation.pdf_5",
+        "text": "source sentence. This led to significantly more accurate and coherent \ntranslations, enhancing user experience on GlobeTech\u2019s platform. \n2. Speed and Efficiency: With parallel processing capabilities, \nTransformers reduced the translation time drastically. Real-time \ntranslations became feasible, even for lengthy product descriptions. \n3. Ease of Scalability: Pre-trained Transformer models like BERT and \nGPT could be fine-tuned for translation tasks. When GlobeTech",
+        "metadata": {
+            "source": "Case Study - Transformers in Machine Translation.pdf",
+            "chunk": 5
+        }
+    },
+    {
+        "chunk_id": "Case Study - Transformers in Machine Translation.pdf_6",
+        "text": "wanted to introduce a new language, they could leverage these pre-\ntrained models, saving time and computational resources. \nUse Cases at GlobeTech \n1. Dynamic \nProduct \nListings: \nAs \nusers \nbrowsed \nproducts, \nTransformer-based MT translated product descriptions on-the-fly. This \nensured that users always accessed up-to-date information without \nwaiting. \n2. Multilingual \nCustomer \nSupport: \nGlobeTech \nintegrated \nTransformer-based MT into their chatbots. This enabled them to offer",
+        "metadata": {
+            "source": "Case Study - Transformers in Machine Translation.pdf",
+            "chunk": 6
+        }
+    },
+    {
+        "chunk_id": "Case Study - Transformers in Machine Translation.pdf_7",
+        "text": "real-time customer support in multiple languages, improving user \nsatisfaction and reducing the need for multilingual human agents. \n3. User Reviews Translation: With Transformers, GlobeTech could \ninstantly translate user reviews. Shoppers from different countries \ncould understand feedback from global users, leading to more \ninformed purchasing decisions. \n4. Seamless UI/UX: User interface elements, like buttons, prompts, \nand notifications, were translated in real-time. This ensured a",
+        "metadata": {
+            "source": "Case Study - Transformers in Machine Translation.pdf",
+            "chunk": 7
+        }
+    },
+    {
+        "chunk_id": "Case Study - Transformers in Machine Translation.pdf_8",
+        "text": "consistent and native experience for users irrespective of their \nlanguage. \nResults and Future Directions \nGlobeTech saw a 40% reduction in translation-related complaints after \nshifting to Transformer-based MT. They also observed a 15% increase in \ninternational sales, as users found the platform more accessible and user-\nfriendly. \n \n \nAs Transformers continue to evolve, GlobeTech plans to: \n1. Integrate Voice Translation: By combining voice recognition and",
+        "metadata": {
+            "source": "Case Study - Transformers in Machine Translation.pdf",
+            "chunk": 8
+        }
+    },
+    {
+        "chunk_id": "Case Study - Transformers in Machine Translation.pdf_9",
+        "text": "Transformers, they aim to offer real-time voice translations for \ncustomer support. \n2. Personalized Translations: Leveraging user data, GlobeTech is \nexploring ways to offer personalized translations, considering regional \ndialects and nuances. \n3. Expanding Language Offerings: GlobeTech aims to cater to even \nmore localized languages, tapping into niche markets and expanding \ntheir global reach. \n \nConclusion \nTransformers have undeniably revolutionized machine translation, offering",
+        "metadata": {
+            "source": "Case Study - Transformers in Machine Translation.pdf",
+            "chunk": 9
+        }
+    },
+    {
+        "chunk_id": "Case Study - Transformers in Machine Translation.pdf_10",
+        "text": "context-aware, fast, and scalable solutions. Organizations like GlobeTech \nInternational, by harnessing the power of this architecture, have significantly \nimproved their service quality, user experience, and global accessibility. As \nthe digital world continues to shrink borders, Transformer-based machine \ntranslation stands as a testament to the potential of AI in fostering global \nconnections.",
+        "metadata": {
+            "source": "Case Study - Transformers in Machine Translation.pdf",
+            "chunk": 10
+        }
+    },
+    {
+        "chunk_id": "KidCare Platform Overview.docx_0",
+        "text": "KidCare Platform Overview:\nKidCare is a child healthcare, nutrition and care management platform that is designed for helping parents, guardians, care partners, and nutritionists to monitor child's health, diet plan, and to manage appointments, tele-consultation. This platform includes manage doctor appointments, vaccinations, growth chart tracking, vaccination details, telephone consultations, online & offline (Walk-in) visited patients\u2019 details, Prescription, and medical records.",
+        "metadata": {
+            "source": "KidCare Platform Overview.docx",
+            "chunk": 0
+        }
+    },
+    {
+        "chunk_id": "KidCare Platform Overview.docx_1",
+        "text": "This platform solves to decrease the manual work and directly gives all the information to the parents in a single mobile application. This gives parents quick and easy access to all the important healthcare information.\nParents/Guardian User Flow:\nFirstly, Install and activate the KidCare application.",
+        "metadata": {
+            "source": "KidCare Platform Overview.docx",
+            "chunk": 1
+        }
+    },
+    {
+        "chunk_id": "KidCare Platform Overview.docx_2",
+        "text": "Doctor will first add all the needed information (Name, DOB, age, sex) of child. After this, OTP will be generated. Then, Doctor will checkup the child and make a prescription/ diet plan/ healthcare information. Parents can login with a OTP which is generated from the Admin panel by Doctor and can see all the information of their child which is already Doctor uploaded in the App. Users can view the prescription, personalized diet plan. This platform has a notifications/ remainders options.",
+        "metadata": {
+            "source": "KidCare Platform Overview.docx",
+            "chunk": 2
+        }
+    },
+    {
+        "chunk_id": "KidCare Platform Overview.docx_3",
+        "text": "platform has a notifications/ remainders options. Users can monitor child\u2019s progress and update profile and preferences.",
+        "metadata": {
+            "source": "KidCare Platform Overview.docx",
+            "chunk": 3
+        }
+    },
+    {
+        "chunk_id": "KidCare Platform Overview.docx_4",
+        "text": "Core Features:\nThis platform includes the child profile management, growth chart, Appointment systems like booking, status tracking, teleconsultation support, and walk-in consultation, Medical documentation like Prescription, Pathology reports, Radiology reports, and download & share options, vaccination information details, and parents profile management.\nValue Proposition:",
+        "metadata": {
+            "source": "KidCare Platform Overview.docx",
+            "chunk": 4
+        }
+    },
+    {
+        "chunk_id": "KidCare Platform Overview.docx_5",
+        "text": "Value Proposition:\n KidCare provides a digitalized platform for parents to manage every aspects of their child\u2019s healthcare. The benefits of this platform are \u2013\nReduces manual record \nEasy access to keep medical information\nFaster doctor appointments\nContinuous growth monitoring\nSecure and storage of health documents",
+        "metadata": {
+            "source": "KidCare Platform Overview.docx",
+            "chunk": 5
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_0",
+        "text": "Index Organization Id                            Name                            Website                           Country                                               Description  Founded                                            Industry  Number of employees",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 0
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_1",
+        "text": "1 FAB0d41d5b5d22c                     Ferrell LLC                 https://price.net/                  Papua New Guinea                       Horizontal empowering knowledgebase     1990                                            Plastics                 3498",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 1
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_2",
+        "text": "2 6A7EdDEA9FaDC52         Mckinney, Riley and Day     http://www.hall-buchanan.info/                           Finland                       User-centric system-worthy leverage     2015                         Glass / Ceramics / Concrete                 4952",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 2
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_3",
+        "text": "3 0bFED1ADAE4bcC1                      Hester Ltd          http://sullivan-reed.com/                             China                            Switchable scalable moratorium     1971                                       Public Safety                 5287",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 3
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_4",
+        "text": "4 2bFC1Be8a4ce42f                  Holder-Sellers                https://becker.com/                      Turkmenistan            De-engineered systemic artificial intelligence     2004                                          Automotive                  921",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 4
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_5",
+        "text": "5 9eE8A6a4Eb96C24                     Mayer Group             http://www.brewer.com/                         Mauritius                        Synchronized needs-based challenge     1991                                      Transportation                 7870",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 5
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_6",
+        "text": "6 cC757116fe1C085                  Henry-Thompson                  http://morse.net/                           Bahamas              Face-to-face well-modulated customer loyalty     1992                       Primary / Secondary Education                 4914",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 6
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_7",
+        "text": "7 219233e8aFF1BC3                  Hansen-Everett              https://www.kidd.org/                          Pakistan                    Seamless disintermediate collaboration     2018                                 Publishing Industry                 7832",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 7
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_8",
+        "text": "8 ccc93DCF81a31CD                   Mcintosh-Mora            https://www.brooks.com/ Heard Island and McDonald Islands                  Centralized attitude-oriented capability     1970                                     Import / Export                 4389",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 8
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_9",
+        "text": "9 0B4F93aA06ED03e                        Carr Inc                   http://ross.com/                            Kuwait                    Distributed impactful customer loyalty     1996                                            Plastics                 8167",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 9
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_10",
+        "text": "10 738b5aDe6B1C6A5                      Gaines Inc        http://sandoval-hooper.com/                        Uzbekistan                           Multi-lateral scalable protocol     1997                            Outsourcing / Offshoring                 9698",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 10
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_11",
+        "text": "11 AE61b8Ffebbc476                      Kidd Group              http://www.lyons.com/         Bouvet Island (Bouvetoya)                             Proactive foreground paradigm     2001                       Primary / Secondary Education                 7473",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 11
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_12",
+        "text": "12 eb3B7D06cCdD609                    Crane-Clarke          https://www.sandoval.com/                           Denmark                      Front-line clear-thinking encryption     2014                                    Food / Beverages                 9011",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 12
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_13",
+        "text": "13 8D0c29189C9798B        Keller, Campos and Black           https://www.garner.info/                           Liberia                         Ameliorated directional emulation     2020                              Museums / Institutions                 2862",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 13
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_14",
+        "text": "14 D2c91cc03CA394c                     Glover-Pope              http://www.silva.biz/              United Arab Emirates                   Persevering contextually-based approach     2013                                    Medical Practice                 9079",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 14
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_15",
+        "text": "15 C8AC1eaf9C036F4                  Pacheco-Spears               https://aguilar.com/                            Sweden                                Secured logistical synergy     1984                                            Maritime                  769",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 15
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_16",
+        "text": "16 b5D10A14f7a8AfE                     Hodge-Ayers     http://www.archer-elliott.com/                          Honduras                     Future-proofed radical implementation     1990                                 Facilities Services                 8508",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 16
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_17",
+        "text": "17 68139b5C4De03B4       Bowers, Guerra and Krause http://www.carrillo-nicholson.com/                            Uganda                       De-engineered transitional strategy     1972                       Primary / Secondary Education                 6986",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 17
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_18",
+        "text": "18 5c2EffEfdba2BdF                 Mckenzie-Melton       http://montoya-thompson.com/                         Hong Kong                     Reverse-engineered heuristic alliance     1998 Investment Management / Hedge Fund / Private Equity                 4589",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 18
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_19",
+        "text": "19 ba179F19F7925f5                     Branch-Mann             http://www.lozano.com/                          Botswana                                 Adaptive intangible frame     1999                             Architecture / Planning                 7961",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 19
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_20",
+        "text": "20 c1Ce9B350BAc66b                  Weiss and Sons               https://barrett.com/                             Korea                          Sharable optimal functionalities     2011                                            Plastics                 5984",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 20
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_21",
+        "text": "21 8de40AC4e6EaCa4         Velez, Payne and Coffey                 http://burton.com/                        Luxembourg                                Mandatory coherent synergy     1986                                           Wholesale                 5010",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 21
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_22",
+        "text": "22 Aad86a4F0385F2d                     Harrell LLC       http://www.frey-rosario.com/                        Guadeloupe            Reverse-engineered mission-critical moratorium     2018                                        Construction                 2185",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 22
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_23",
+        "text": "23 22aC3FFd64fD703      Eaton, Reynolds and Vargas            http://www.freeman.biz/                            Monaco           Self-enabling multi-tasking process improvement     2014                              Luxury Goods / Jewelry                 8987",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 23
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_24",
+        "text": "24 5Ec4C272bCf085c                Robbins-Cummings      http://donaldson-wilkins.com/                           Belgium                            Organic non-volatile hierarchy     1991                                     Pharmaceuticals                 5038",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 24
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_25",
+        "text": "25 5fDBeA8BB91a000                     Jenkins Inc               http://www.kirk.biz/                      South Africa                           Front-line systematic help-desk     2002                                           Insurance                 1215",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 25
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_26",
+        "text": "26 dFfD6a6F9AC2d9C      Greene, Benjamin and Novak               http://www.kent.net/                           Romania                        Centralized leadingedge moratorium     2012                              Museums / Institutions                 4941",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 26
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_27",
+        "text": "27 4B217cC5a0674C5      Dickson, Richmond and Clay                http://everett.com/                    Czech Republic                         Team-oriented tangible complexity     1980                              Real Estate / Mortgage                 3122",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 27
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_28",
+        "text": "28 88b1f1cDcf59a37                    Prince-David               http://thompson.com/                  Christmas Island                              Virtual holistic methodology     1970                                  Banking / Mortgage                 1046",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 28
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_29",
+        "text": "29 f9F7bBCAEeC360F                       Ayala LLC              http://www.zhang.com/                       Philippines                 Open-source zero administration hierarchy     2021                                      Legal Services                 7664",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 29
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_30",
+        "text": "30 7Cb3AeFcE4Ba31e                     Rivas Group                https://hebert.org/                         Australia                  Open-architected well-modulated capacity     1998                             Logistics / Procurement                 4155",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 30
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_31",
+        "text": "31 ccBcC32adcbc530       Sloan, Mays and Whitehead                 http://lawson.com/                              Chad                    Face-to-face high-level conglomeration     1997                                   Civil Engineering                  365",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 31
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_32",
+        "text": "32 f5afd686b3d05F5        Durham, Allen and Barnes          http://chan-stafford.org/                          Zimbabwe                         Synergistic web-enabled framework     1993                Mechanical or Industrial Engineering                 6135",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 32
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_33",
+        "text": "33 38C6cfC5074Fa5e                  Fritz-Franklin            http://www.lambert.com/                             Nepal                           Automated 4thgeneration website     1972                                         Hospitality                 4516",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 33
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_34",
+        "text": "34 5Cd7efccCcba38f                     Burch-Ewing                  http://cline.net/                            Taiwan                  User-centric 4thgeneration system engine     1981                                Venture Capital / VC                 7443",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 34
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_35",
+        "text": "35 9E6Acb51e3F9d6F       Glass, Barrera and Turner                https://dunlap.com/                   Kyrgyz Republic                 Multi-channeled 3rdgeneration open system     2020                                           Utilities                 2610",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 35
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_36",
+        "text": "36 4D4d7E18321eaeC                      Pineda-Cox                http://aguilar.org/                           Bolivia                       Fundamental asynchronous capability     2010                                Human Resources / HR                 1312",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 36
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_37",
+        "text": "37 485f5d06B938F2b     Baker, Mccann and Macdonald    http://www.anderson-barker.com/                             Kenya                       Cross-group user-facing focus group     2013                                  Legislative Office                 1638",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 37
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_38",
+        "text": "38 19E3a5Bf6dBDc4F                     Cuevas-Moss      https://dodson-castaneda.net/                         Guatemala                          Extended human-resource intranet     1994                                               Music                 9995",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 38
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_39",
+        "text": "39 6883A965c7b68F7                        Hahn PLC                 http://newman.com/                           Belarus                               Organic logistical leverage     2012               Electrical / Electronic Manufacturing                 3715",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 39
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_40",
+        "text": "40 AC5B7AA74Aa4A2E  Valentine, Ferguson and Kramer                 http://stuart.net/                            Jersey                          Centralized secondary time-frame     1997                         Non - Profit / Volunteering                 3585",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 40
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_41",
+        "text": "41 decab0D5027CA6a                      Arroyo Inc            https://www.turner.com/                           Grenada                             Managed demand-driven website     2006                                   Writing / Editing                 9067",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 41
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_42",
+        "text": "42 dF084FbBb613eea                       Walls LLC      http://www.reese-vasquez.biz/                        Cape Verde                 Self-enabling fresh-thinking installation     1989 Investment Management / Hedge Fund / Private Equity                 1678",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 42
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_43",
+        "text": "43 A2D89Ab9bCcAd4e  Mitchell, Warren and Schneider                   https://fox.biz/               Trinidad and Tobago                            Enhanced intangible time-frame     2021       Capital Markets / Hedge Fund / Private Equity                 3816",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 43
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_44",
+        "text": "44 77aDc905434a49f                      Prince PLC             https://www.watts.com/                            Sweden                      Profit-focused coherent installation     2016                        Individual / Family Services                 7645",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 44
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_45",
+        "text": "45 235fdEFE2cfDa5F                 Brock-Blackwell              http://www.small.com/                             Benin                              Secured foreground emulation     1986                                   Online Publishing                 7034",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 45
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_46",
+        "text": "46 1eD64cFe986BBbE                  Walton-Barnett       https://ashley-schaefer.com/                    Western Sahara                    Right-sized clear-thinking flexibility     2001                              Luxury Goods / Jewelry                 1746",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 46
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_47",
+        "text": "47 CbBbFcdd0eaE2cF                 Bartlett-Arroyo                  https://cruz.com/          Northern Mariana Islands                               Realigned didactic function     1976                         Civic / Social Organization                 3987",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 47
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_48",
+        "text": "48 49aECbDaE6aBD53      Wallace, Madden and Morris  http://www.blevins-fernandez.biz/                           Germany                     Persistent real-time customer loyalty     2016                                     Pharmaceuticals                 9443",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 48
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_49",
+        "text": "49 7b3fe6e7E72bFa4                     Berg-Sparks         https://cisneros-love.com/                            Canada                         Stand-alone static implementation     1974                                       Arts / Crafts                 2073",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 49
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_50",
+        "text": "50 c6DedA82A8aef7E                    Gonzales Ltd                   http://bird.com/                             Tonga                             Managed human-resource policy     1988                                      Consumer Goods                 9069",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 50
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_51",
+        "text": "51 7D9FBF85cdC3871                 Lawson and Sons              https://www.wong.com/       French Southern Territories                             Compatible analyzing intranet     2021                                       Arts / Crafts                 3527",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 51
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_52",
+        "text": "52 7dd18Fb7cB07b65    Mcguire, Mcconnell and Olsen         https://melton-briggs.com/                             Korea                              Profound client-server frame     1988                                            Printing                 8445",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 52
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_53",
+        "text": "53 EF5B55FadccB8Fe                Charles-Phillips                https://bowman.com/                     Cote d'Ivoire                    Monitored client-server implementation     2012                                  Mental Health Care                 3450",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 53
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_54",
+        "text": "54 f8D4B99e11fAF5D                        Odom Ltd     https://www.humphrey-hess.com/                     Cote d'Ivoire                       Advanced static process improvement     2012                               Management Consulting                 1825",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 54
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_55",
+        "text": "55 e24D21BFd3bF1E5                     Richard PLC        https://holden-coleman.net/                           Mayotte                             Object-based optimizing model     1971                                     Broadcast Media                 4942",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 55
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_56",
+        "text": "56 B9BdfEB6D3Ca44E                     Sampson Ltd               https://blevins.com/                    Cayman Islands                                   Intuitive local adapter     2005                                             Farming                 1418",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 56
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_57",
+        "text": "57 2a74D6f3D3B268e         Cherry, Le and Callahan       https://waller-delacruz.biz/                           Nigeria                    Universal human-resource collaboration     2017                    Entertainment / Movie Production                 7202",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 57
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_58",
+        "text": "58 Bf3F3f62c8aBC33                      Cherry PLC            https://www.avila.info/                  Marshall Islands                               Persistent tertiary website     1980                                            Plastics                 8245",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 58
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_59",
+        "text": "59 aeBe26B80a7a23c                  Melton-Nichols               https://kennedy.com/                             Palau                 User-friendly clear-thinking productivity     2021                                  Legislative Office                 8741",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 59
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_60",
+        "text": "60 aAeb29ad43886C6                    Potter-Walsh          http://thomas-french.org/                            Turkey                         Optional non-volatile open system     2008                                Human Resources / HR                 6923",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 60
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_61",
+        "text": "61 bD1bc6bB6d1FeD3                    Freeman-Chen                https://mathis.com/                       Timor-Leste                            Phased next generation adapter     1973                   International Trade / Development                  346",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 61
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_62",
+        "text": "62 EB9f456e8b7022a                      Soto Group               https://norris.info/                           Vietnam                    Enterprise-wide executive installation     1988                       Business Supplies / Equipment                 9097",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 62
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_63",
+        "text": "63 Dfef38C51D8DAe3         Poole, Cruz and Whitney                 https://reed.info/                           Reunion                              Balanced analyzing groupware     1978                     Marketing / Advertising / Sales                 2992",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 63
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_64",
+        "text": "64 055ffEfB2Dd95B0                       Riley Ltd                  http://wiley.com/                            Brazil                           Optional exuding superstructure     1986                                            Textiles                 9315",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 64
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_65",
+        "text": "65 cBfe4dbAE1699da    Erickson, Andrews and Bailey       https://www.hobbs-grant.com/                           Eritrea                         Vision-oriented secondary project     2014                                Consumer Electronics                 7829",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 65
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_66",
+        "text": "66 fdFbecbadcdCdf1   Wilkinson, Charles and Arroyo       http://hunter-mcfarland.com/      United States Virgin Islands                                  Assimilated 24/7 archive     1996                                  Building Materials                  602",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 66
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_67",
+        "text": "67 5DCb8A5a5ca03c0                       Floyd Ltd            http://www.whitney.com/       Falkland Islands (Malvinas)                     Function-based fault-tolerant concept     2017                               Public Relations / PR                 2911",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 67
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_68",
+        "text": "68 ce57DCbcFD6d618                 Newman-Galloway             https://www.scott.com/                        Luxembourg                         Enhanced foreground collaboration     1987                         Information Technology / IT                 3934",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 68
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_69",
+        "text": "69 5aaD187dc929371                  Frazier-Butler https://www.daugherty-farley.info/          Northern Mariana Islands                            Persistent interactive circuit     1972                            Outsourcing / Offshoring                 5130",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 69
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_70",
+        "text": "70 902D7Ac8b6d476b                      Newton Inc https://www.richmond-manning.info/              Netherlands Antilles                         Fundamental stable info-mediaries     1976                                   Military Industry                  563",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 70
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_71",
+        "text": "71 32BB9Ff4d939788                      Duffy-Levy            https://www.potter.com/                          Guernsey                              Diverse exuding installation     1982                                            Wireless                 6146",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 71
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_72",
+        "text": "72 adcB0afbE58bAe3                      Wagner LLC        https://decker-esparza.com/                           Uruguay                        Reactive attitude-oriented toolset     1987                               International Affairs                 6874",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 72
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_73",
+        "text": "73 dfcA1c84AdB61Ac                   Mccall-Holmes               http://www.dean.com/                             Benin                         Object-based value-added database     2009                                      Legal Services                  696",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 73
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_74",
+        "text": "74 208044AC2fe52F3                      Massey LLC               https://frazier.biz/                          Suriname Configurable zero administration Graphical User Interface     1986                                          Accounting                 5004",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 74
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_75",
+        "text": "75 f3C365f0c1A0623                       Hicks LLC                http://alvarez.biz/                          Pakistan    Quality-focused client-server Graphical User Interface     1970                     Computer Software / Engineering                 8480",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 75
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_76",
+        "text": "76 ec5Bdd3CBAfaB93         Cole, Russell and Avery        http://www.blankenship.com/                          Mongolia                    De-engineered fault-tolerant challenge     2000                                     Law Enforcement                 7012",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 76
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_77",
+        "text": "77 DDB19Be7eeB56B4                  Cummings-Rojas         https://simon-pearson.com/      Svalbard & Jan Mayen Islands                     User-centric modular customer loyalty     2012                                  Financial Services                 7529",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 77
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_78",
+        "text": "78 dd6CA3d0bc3cAfc     Beasley, Greene and Mahoney  http://www.petersen-lawrence.com/                              Togo                        Extended content-based methodology     1976                              Religious Institutions                  869",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 78
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_79",
+        "text": "79 A0B9d56e61070e3       Beasley, Sims and Allison                 http://burke.info/                            Latvia                                Secured zero tolerance hub     1972                                 Facilities Services                 6182",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 79
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_80",
+        "text": "80 cBa7EFe5D05Adaf                 Crawford-Rivera         https://black-ramirez.org/                              Cuba                  Persevering exuding budgetary management     1999                                   Online Publishing                 7805",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 80
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_81",
+        "text": "81 Ea3f6D52Ec73563                  Montes-Hensley               https://krueger.org/                     Liechtenstein                       Multi-tiered secondary productivity     2009                                            Printing                 8433",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 81
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_82",
+        "text": "82 bC0CEd48A8000E0                  Velazquez-Odom                https://stokes.com/                          Djibouti                        Streamlined 6thgeneration function     2002                      Alternative Dispute Resolution                 4044",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 82
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_83",
+        "text": "83 c89b9b59BC4baa1                   Eaton-Morales     https://www.reeves-graham.com/                        Micronesia                           Customer-focused explicit frame     1990       Capital Markets / Hedge Fund / Private Equity                 7013",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 83
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_84",
+        "text": "84 FEC51bce8421a7b Roberson, Pennington and Palmer       http://www.keith-fisher.com/                          Cameroon                         Adaptive bi-directional hierarchy     1993                                  Telecommunications                 5571",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 84
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_85",
+        "text": "85 e0E8e27eAc9CAd5        George, Russo and Guerra                 https://drake.com/                            Sweden                       Centralized non-volatile capability     1989                                   Military Industry                 2880",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 85
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_86",
+        "text": "86 B97a6CF9bf5983C                      Davila Inc            https://mcconnell.info/           Cocos (Keeling) Islands                            Profit-focused dedicated frame     2017                                Consumer Electronics                 2215",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 86
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_87",
+        "text": "87 a0a6f9b3DbcBEb5                    Mays-Preston       http://www.browning-key.com/                              Mali                        User-centric heuristic focus group     2006                                   Military Industry                 5786",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 87
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_88",
+        "text": "88 8cC1bDa330a5871                   Pineda-Morton              https://www.carr.com/      United States Virgin Islands                     Grass-roots methodical info-mediaries     1991                                            Printing                 6168",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 88
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_89",
+        "text": "89 ED889CB2FE9cbd3                  Huang and Sons            https://www.bolton.com/                           Eritrea                       Re-contextualized dynamic hierarchy     1981                                      Semiconductors                 7484",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 89
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_90",
+        "text": "90 F4Dc1417BC6cb8f                   Gilbert-Simon          https://www.bradford.biz/                           Burundi                           Grass-roots radical parallelism     1973                             Newspapers / Journalism                 1927",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 90
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_91",
+        "text": "91 7ABc3c7ecA03B34                Sampson-Griffith              http://hendricks.org/                             Benin                          Multi-layered composite paradigm     1972                                            Textiles                 3881",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 91
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_92",
+        "text": "92 4e0719FBE38e0aB                 Miles-Dominguez             http://www.turner.com/                         Gibraltar                             Organized empowering forecast     1996                         Civic / Social Organization                  897",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 92
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_93",
+        "text": "93 dEbDAAeDfaed00A                   Rowe and Sons           https://www.simpson.org/                       El Salvador                         Balanced multimedia knowledgebase     1978                                 Facilities Services                 8172",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 93
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_94",
+        "text": "94 61BDeCfeFD0cEF5  Valenzuela, Holmes and Rowland            https://www.dorsey.net/                            Taiwan                           Persistent tertiary focus group     1999                                      Transportation                 1483",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 94
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_95",
+        "text": "95 4e91eD25f486110          Best, Wade and Shepard             https://zimmerman.com/                          Zimbabwe                          Innovative background definition     1991                                  Gambling / Casinos                 4873",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 95
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_96",
+        "text": "96 0a0bfFbBbB8eC7c                    Holmes Group              https://mcdowell.org/                          Ethiopia                    Right-sized zero tolerance focus group     1975                                         Photography                 2988",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 96
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_97",
+        "text": "97 BA6Cd9Dae2Efd62                        Good Ltd                  http://duffy.com/                          Anguilla                   Reverse-engineered composite moratorium     1971                                   Consumer Services                 4292",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 97
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_98",
+        "text": "98 E7df80C60Abd7f9               Clements-Espinoza            http://www.flowers.net/       Falkland Islands (Malvinas)                                   Progressive modular hub     1991                                     Broadcast Media                  236",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 98
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_99",
+        "text": "99 AFc285dbE2fEd24                      Mendez Inc             https://www.burke.net/                   Kyrgyz Republic                           User-friendly exuding migration     1993                                Education Management                  339",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 99
+        }
+    },
+    {
+        "chunk_id": "organizations-100.csv_100",
+        "text": "100 e9eB5A60Cef8354                  Watkins-Kaiser            http://www.herring.com/                              Togo                             Synergistic background access     2009                                  Financial Services                 2785",
+        "metadata": {
+            "source": "organizations-100.csv",
+            "chunk": 100
+        }
+    }
+]
