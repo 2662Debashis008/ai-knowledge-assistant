@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# ChromaDB
+backend/chroma_db/
+
+# Uploaded Files
+backend/uploads/
+
+# Logs
+backend/logs/
+
+# Storage
+backend/storage/
+
+# Exported Files
+backend/exports/
+
+# Node
+frontend/node_modules/
+
+# Next.js
+frontend/.next/
+
+# Environment
+.env
+.env.*
