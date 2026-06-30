@@ -4,6 +4,8 @@
         "convo",
         "metadatas",
         "metas",
+        "noopener",
+        "noreferrer",
         "ollama",
         "topbar",
         "vectordb"

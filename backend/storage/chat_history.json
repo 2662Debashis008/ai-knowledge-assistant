@@ -1,138 +1,46 @@
 [
   {
-    "question": "History of cricket",
-    "answer": "I could not find the answer in the knowledge base."
+    "chat_id": "83140411-425a-43fa-9452-e0aca74cfcdb",
+    "title": "Give me two example of Generative Ai tool",
+    "messages": [
+      {
+        "question": "Give me two example of Generative Ai tool",
+        "answer": "Here are two examples of Generative AI tools mentioned in the context:\n\n1. GPT-4 by OpenAI\n2. (No additional specific examples are given, but other top gen AI tools may be discussed later.)"
+      }
+    ]
   },
   {
-    "question": "History of cricket",
-    "answer": "Cricket originated in England during the 16th century and gradually spread across the world. The establishment of international cricket in the 19th century led to the formation of major competitions such as Test matches and One Day Internationals (ODIs)."
+    "chat_id": "09a256e0-7b2d-44ab-9ca1-f5c94b6f7eed",
+    "title": "explain about OpenAI",
+    "messages": [
+      {
+        "question": "explain about OpenAI",
+        "answer": "OpenAI is a technology company that specializes in artificial intelligence and machine learning. The most notable product from OpenAI is the chatbot named ChatGPT, which was designed to simulate human-like conversations and has gained significant popularity among users. Additionally, OpenAI's other notable products include new AI plugins for internet browsing and coding, as well as an API for developers to integrate their own applications with AI capabilities."
+      }
+    ]
   },
   {
-    "question": "History about Cricket",
-    "answer": "Cricket originated in England during the 16th century and gradually spread across the world. The establishment of international cricket in the 19th century led to the formation of major competitions."
+    "chat_id": "27413c3c-2da5-4ba9-b6f2-41619a97eebe",
+    "title": "From this document give me summary",
+    "messages": [
+      {
+        "question": "From this document give me summary",
+        "answer": "The document appears to be a reference or record for a project. Here is a brief summary:\n\n* Project: Hodge-Ayers\n* Location: Honduras\n* Date: 1990\n* Department: Facilities Services\n* Description: Future-proofed radical implementation"
+      }
+    ]
   },
   {
-    "question": "History of Cricket",
-    "answer": "Cricket originated in England during the 16th century and gradually spread across the world. The establishment of international cricket in the 19th century led to the formation of major competitions."
-  },
-  {
-    "question": "History of Cricket",
-    "answer": "Cricket originated in England during the 16th century and gradually spread across the world. The establishment of international cricket in the 19th century led to the formation of major competitions such as the Ashes, the Indian Premier League (IPL), and Test cricket tournaments."
-  },
-  {
-    "question": "History of Cricket",
-    "answer": "Cricket originated in England during the 16th century and gradually spread across the world. The establishment of international cricket in the 19th century led to the formation of major competitions."
-  },
-  {
-    "question": "History of Cricket",
-    "answer": "Cricket originated in England during the 16th century and gradually spread across the world. The establishment of international cricket in the 19th century led to the formation of major competitions."
-  },
-  {
-    "question": "History of Cricket",
-    "answer": "Cricket originated in England during the 16th century and gradually spread across the world. The establishment of international cricket in the 19th century led to the formation of major competitions."
-  },
-  {
-    "question": "About cricket",
-    "answer": "I could not find the answer in the knowledge base."
-  },
-  {
-    "question": "overview cricket",
-    "answer": "Cricket is a bat-and-ball sport played between two teams of eleven players. It is one of the most followed sports in the world and enjoys massive popularity across Asia, Australia, Europe, Africa, and the Caribbean."
-  },
-  {
-    "question": "basic rules of cricket",
-    "answer": "A cricket match is played between two teams. One team bats to score runs while the other bowls and fields to restrict scoring and dismiss batters. The team with the higher score wins the match."
-  },
-  {
-    "question": "About Cybersecurity",
-    "answer": "Generative AI models simulate potential risk scenarios, enabling security checks. By studying past incidents, AI anticipates future vulnerabilities, enabling proactive defense strategies."
-  },
-  {
-    "question": "About OpenAI",
-    "answer": "OpenAI is the company behind several AI models, including the chatbot ChatGPT and the image generator DALL-E 2. It is also known for its stability improvements, high test scores, and robust safety measures, but it has concerns about safety and stability due to persistent bias issues. Additionally, OpenAI offers APIs for developers, supports multiple languages, and provides new AI plugins for internet browsing and coding."
-  },
-  {
-    "question": "Drawbacks of Synthesia",
-    "answer": "I could not find the answer in the knowledge base regarding \"Synthesia\" specifically, but based on general information about AI-powered speech synthesis tools like Synthesia. \n\n Generally, some drawbacks of Synthesia or similar tools include: \n- Limited post-2021 data access; \n- Occasional technical glitches; \n- Can produce erroneous or offensive content."
-  },
-  {
-    "question": "Code Whisperer by AWS",
-    "answer": "Code Whisperer by AWS is a tool that provides quick code generation via language prompts, with both free and paid tiers. It boosts productivity with instant suggestions, aligns with best practices, and supports multiple languages and IDEs. However, it has limitations, including not being a complete human coding substitute, potential challenges with complex tasks, accuracy concerns, and security risks related to open-source legal issues."
-  },
-  {
-    "question": "Synthesia",
-    "answer": "I could not find the answer in the knowledge base."
-  },
-  {
-    "question": "GitHub Copilot",
-    "answer": "GitHub Copilot is a tool that transforms language prompts into code suggestions. It also offers organization-wide policy management and has strengths in being grounded on rich data from OpenAI Codex and GitHub, with a free trial available. However, it has limitations in supporting new APIs or coding libraries and potential data privacy issues."
-  },
-  {
-    "question": "Bing AI",
-    "answer": "Bing AI is powered by OpenAI's GPT-4 and integrates an AI chat interface that delivers prompt responses to queries."
-  },
-  {
-    "question": "What is GitHub Copilot?",
-    "answer": "GitHub Copilot is a tool that transforms language prompts into code suggestions, offering organization-wide policy management. It is grounded on rich data from OpenAI Codex and GitHub, has a free trial available, but may have limited support for new APIs or coding libraries and potential data privacy issues."
-  },
-  {
-    "question": "Explain Cybersecurity",
-    "answer": "Cybersecurity is evolving to keep pace with digital threats. Generative AI models simulate potential risk scenarios, enabling security checks. By studying past incidents, AI anticipates future vulnerabilities, allowing for proactive defense strategies."
-  },
-  {
-    "question": "History of Cricket",
-    "answer": "I could not find the answer in the knowledge base."
-  },
-  {
-    "question": "History of Cricket",
-    "answer": "I could not find the answer in the knowledge base."
-  },
-  {
-    "question": "Explain Cybersecurity",
-    "answer": "Cybersecurity is evolving to keep pace with digital threats. Generative AI models simulate potential risk scenarios, enabling security checks. By studying past incidents, AI anticipates future vulnerabilities, allowing for proactive defense strategies."
-  },
-  {
-    "question": "What is GitHub Copilot?",
-    "answer": "GitHub Copilot is a tool that transforms language prompts into code suggestions and offers organization-wide policy management. It is grounded on rich data from OpenAI Codex and GitHub, and it has a free trial available. However, it has limited support for new APIs or coding libraries and potential data privacy issues."
-  },
-  {
-    "question": "Explain Cybersecurity",
-    "answer": "Cybersecurity is evolving to keep pace with digital threats. Generative AI models simulate potential risk scenarios, enabling security checks. By studying past incidents, AI anticipates future vulnerabilities, allowing for proactive defense strategies."
-  },
-  {
-    "question": "History of Cricket",
-    "answer": "I could not find the answer in the knowledge base."
-  },
-  {
-    "question": "History of Cricket",
-    "answer": "I could not find the answer in the knowledge base."
-  },
-  {
-    "question": "Explain Cybersecurity",
-    "answer": "Cybersecurity is evolving to keep pace with digital threats. Generative AI models simulate potential risk scenarios, enabling security checks. By studying past incidents, AI anticipates future vulnerabilities, allowing for proactive defense strategies."
-  },
-  {
-    "question": "Overview of Cricket",
-    "answer": "Cricket is a bat-and-ball sport played between two teams of eleven players. It is one of the most followed sports in the world and enjoys massive popularity across Asia, Australia, Europe, Africa, and the Caribbean."
-  },
-  {
-    "question": "Explain Cybersecurity",
-    "answer": "Cybersecurity is evolving to keep pace with digital threats. Generative AI models simulate potential risk scenarios, enabling security checks. By studying past incidents, AI anticipates future vulnerabilities, enabling proactive defense strategies."
-  },
-  {
-    "question": "AI in healthcare",
-    "answer": "In the context of generative AI across key sectors, in healthcare, doctors can utilize AI to tailor care plans to enhance patient recovery and AI technologies enhance the clarity of MRI, CT, and PET scan images, leading to quicker diagnosis and treatment."
-  },
-  {
-    "question": "AI in agriculture",
-    "answer": "AI in agriculture enables the use of cameras and sensors to monitor crop health, detect pests and diseases, and optimize irrigation systems. For example, John Deere employs AI to analyze images from cameras on tractors to provide farmers with real-time insights into soil moisture, crop growth, and equipment condition. This data can help farmers make informed decisions about planting, fertilizing, and harvesting, ultimately increasing yields and reducing waste."
-  },
-  {
-    "question": "Use cases of Global Tech",
-    "answer": "Organizations like GlobeTech International have leveraged Transformer-based machine translation for various use cases, including:\n\n1. Language Translation: Providing translations in real-time to cater to diverse customer bases across the globe.\n2. Content Localization: Adapting content to regional languages and nuances, enhancing user engagement and experience.\n3. Global Customer Support: Offering multilingual support to users worldwide, improving response times and satisfaction.\n4. E-commerce Expansion: Enabling online stores to reach global customers with localized product descriptions, pricing, and recommendations.\n5. International Marketing Campaigns: Conducting targeted marketing efforts across languages and regions, increasing brand awareness and conversion rates.\n\nThese use cases showcase how AI-powered solutions can bridge language gaps, fostering a more connected and accessible digital world."
-  },
-  {
-    "question": "use cases of Global Tech",
-    "answer": "GlobeTech International has successfully implemented Transformer-based machine translation solutions to enhance their services. Some notable use cases include:\n\n1. Expanding customer support: GlobeTech uses machine translation to provide multilingual customer support, enabling them to serve customers across different regions and languages.\n2. Enhancing user experience: By translating content in real-time, GlobeTech has improved the overall user experience for its users, making it easier for people to access information and services in their native language.\n3. Improving global accessibility: The company's use of machine translation has enabled them to reach a wider audience, increasing global accessibility and connecting with customers from diverse backgrounds.\n\nThese use cases demonstrate how GlobeTech International has leveraged AI-powered solutions to drive business success and foster global connections."
+    "chat_id": "2e168db3-d876-4b1f-9618-d7299a76725e",
+    "title": "what is coding?",
+    "messages": [
+      {
+        "question": "what is coding?",
+        "answer": "Coding, or computer programming, is the process of creating instructions that a computer can execute to perform specific tasks, solve problems, or automate processes. At its core, coding is about logic and communication."
+      },
+      {
+        "question": "who is virat kohli?",
+        "answer": "Virat Kohli is widely regarded as one of the greatest batsmen in the history of cricket."
+      }
+    ]
   }
 ]

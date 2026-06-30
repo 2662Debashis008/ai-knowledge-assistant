@@ -13,7 +13,7 @@ from services.logger_service import log_query
 from services.evaluation_service import calculate_grounding
 
 
-def ask_question(question):
+def ask_question(question,chat_id):
 
     start_time = time.time()
 
@@ -48,6 +48,7 @@ def ask_question(question):
     )
 
     save_chat(
+        chat_id,
         question,
         answer
     )

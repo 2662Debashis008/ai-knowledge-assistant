@@ -254,5 +254,380 @@
             }
         ],
         "grounding": 0.18
+    },
+    {
+        "timestamp": "2026-06-15 11:54:09.264148",
+        "question": "Explain about KidCare",
+        "latency_ms": 34077.25,
+        "chunk_ids": [
+            "KidCare Platform Overview.docx_0"
+        ],
+        "answer": "KidCare is a comprehensive child healthcare, nutrition, and care management platform designed to support parents, guardians, care partners, and nutritionists in monitoring a child's health, creating personalized diet plans, and managing appointments through various tele-consultation options. It offers features such as:\n\n1. Monitoring Child Health: Tracking vital signs and overall well-being.\n2. Nutrition Planning: Creating customized diet plans based on the child\u2019s age, health needs, and dietary requirements.\n3. Appointment Management: Booking doctor's appointments, vaccinations, and scheduling follow-up sessions.\n4. Vaccination Details: Keeping track of vaccination schedules and records.\n5. Tele-Consultation: Enabling online consultations with healthcare professionals for guidance and support.\n6. Patient Records Management: Maintaining accurate medical records, including prescriptions and appointment history.\n7. Growth Chart Tracking: Monitoring the child's growth and development milestones.\n\nBy utilizing this platform, users can stay on top of their child's health needs, receive personalized advice from healthcare experts, and enjoy a more convenient and efficient approach to managing pediatric care.",
+        "citations": [
+            {
+                "source": "KidCare Platform Overview.docx"
+            }
+        ],
+        "grounding": 0.24
+    },
+    {
+        "timestamp": "2026-06-15 11:56:33.724168",
+        "question": "Explain KidCare",
+        "latency_ms": 9351.16,
+        "chunk_ids": [
+            "KidCare Platform Overview.docx_0"
+        ],
+        "answer": "KidCare is a comprehensive child healthcare and care management platform that enables parents, guardians, care partners, and nutritionists to efficiently monitor and manage various aspects of their child's health, including nutrition plan, appointments, vaccinations, growth chart tracking, medical records, and tele-consultation. The platform aims to streamline the caregiving process, ensuring timely and personalized care for children.",
+        "citations": [
+            {
+                "source": "KidCare Platform Overview.docx"
+            }
+        ],
+        "grounding": 0.6
+    },
+    {
+        "timestamp": "2026-06-15 11:57:59.845237",
+        "question": "About Virat Kohli and Give me the DOB of Virat Kohli",
+        "latency_ms": 6264.47,
+        "chunk_ids": [
+            "b8630b96-315d-4ac3-9a22-8aa077fe97f1"
+        ],
+        "answer": "Virat Kohli was born on November 5, 1988.",
+        "citations": [
+            {
+                "source": "Virat_Kohli_Biography.pdf"
+            }
+        ],
+        "grounding": 0.75
+    },
+    {
+        "timestamp": "2026-06-15 11:58:24.512062",
+        "question": "About Virat Kohli",
+        "latency_ms": 3519.73,
+        "chunk_ids": [
+            "b8630b96-315d-4ac3-9a22-8aa077fe97f1"
+        ],
+        "answer": "Virat Kohli was born on November 5, 1988.",
+        "citations": [
+            {
+                "source": "Virat_Kohli_Biography.pdf"
+            }
+        ],
+        "grounding": 0.75
+    },
+    {
+        "timestamp": "2026-06-15 11:59:09.373924",
+        "question": "Comprehensive Career Statistics",
+        "latency_ms": 9568.41,
+        "chunk_ids": [
+            "b30f8a22-61d0-4e57-8340-fe9df5d13d67"
+        ],
+        "answer": "The comprehensive career statistics for Virat Kohli include:\n\n- Test Matches: 115\n- Innings: 195\n- Runs: 8,848\n- Highest Score: 254*\n- Average: 49.15\n- Centuries: 29\n- (100s): 49",
+        "citations": [
+            {
+                "source": "Virat_Kohli_Biography.pdf"
+            }
+        ],
+        "grounding": 0.52
+    },
+    {
+        "timestamp": "2026-06-15 12:19:23.534710",
+        "question": "who is virat",
+        "latency_ms": 18779.04,
+        "chunk_ids": [
+            "b8630b96-315d-4ac3-9a22-8aa077fe97f1"
+        ],
+        "answer": "Virat Kohli is widely regarded as one of the greatest batsmen in the history of cricket.",
+        "citations": [
+            {
+                "source": "Virat_Kohli_Biography.pdf"
+            }
+        ],
+        "grounding": 0.79
+    },
+    {
+        "timestamp": "2026-06-15 12:19:31.052287",
+        "question": "who is virat kohli?",
+        "latency_ms": 4120.87,
+        "chunk_ids": [
+            "Virat_Kohli_Biography.pdf_0"
+        ],
+        "answer": "Virat Kohli is widely regarded as one of the greatest batsmen in the history of cricket.",
+        "citations": [
+            {
+                "source": "Virat_Kohli_Biography.pdf"
+            }
+        ],
+        "grounding": 0.79
+    },
+    {
+        "timestamp": "2026-06-15 12:37:17.882714",
+        "question": "What is coding?",
+        "latency_ms": 19406.1,
+        "chunk_ids": [
+            "783e046e-f2f5-49fe-9312-b44defe33270"
+        ],
+        "answer": "Coding, or computer programming, is the process of creating instructions that a computer can execute to perform specific tasks, solve problems, or automate processes. At its core, coding is about logic and communication.",
+        "citations": [
+            {
+                "source": "Introduction_to_Coding.pdf"
+            }
+        ],
+        "grounding": 1.0
+    },
+    {
+        "timestamp": "2026-06-15 12:37:57.222878",
+        "question": "what is RAG?",
+        "latency_ms": 6613.66,
+        "chunk_ids": [
+            "b6a1202b-2c22-4302-836c-81f55d5a245e"
+        ],
+        "answer": "Retrieval-Augmented Generation (RAG) is a framework that decouples the knowledge source from the reasoning engine by dynamically querying an external data source based on the user's input and fetching relevant context.",
+        "citations": [
+            {
+                "source": "Retrieval_Augmented_Generation_Overview.docx"
+            }
+        ],
+        "grounding": 0.68
+    },
+    {
+        "timestamp": "2026-06-15 12:40:01.215830",
+        "question": "what are the pipeline in this model give me in step by steps",
+        "latency_ms": 25773.8,
+        "chunk_ids": [
+            "cf3e774a-9b7f-4acd-b8c7-3653c3ce5fd0"
+        ],
+        "answer": "Here are the two discrete, asynchronous workflows in the Technical Pipeline and Core Architecture:\n\n1. **Data Ingestion (Offline)**: This phase is responsible for extracting raw data from various sources such as PDFs, Markdown files, relational databases, and internal wikis.\n\nStep-by-step process of Data Ingestion (Offline):\n\n- **Raw Data Extraction**: Extract raw data from different sources.\n- **Data Striping**: Remove unnecessary formatting from the extracted data.\n- **Data Storage**: Store the processed data in an offline storage system (e.g., database).\n\n2. **Query Execution (Online)**: This phase is responsible for executing queries on the stored data.\n\nStep-by-step process of Query Execution (Online):\n\n- **Query Receipt**: Receive a query from the application layer.\n- **Query Parsing**: Parse the received query to determine what operations need to be performed.\n- **Data Retrieval**: Retrieve relevant data from the offline storage system based on the parsed query.\n- **Query Execution**: Execute the query on the retrieved data and return results.\n\nPlease note that these steps might not be exhaustive, but they provide a general overview of the Data Ingestion (Offline) and Query Execution (Online) pipelines.",
+        "citations": [
+            {
+                "source": "Retrieval_Augmented_Generation_Overview.docx"
+            }
+        ],
+        "grounding": 0.22
+    },
+    {
+        "timestamp": "2026-06-15 12:41:43.184603",
+        "question": "what are the popular languages in coding?",
+        "latency_ms": 4734.56,
+        "chunk_ids": [
+            "84b14370-2277-4841-ad73-fb1d36ad38a4"
+        ],
+        "answer": "Some of the popular programming languages include Python, Java, JavaScript, C++, and HTML/CSS.",
+        "citations": [
+            {
+                "source": "Introduction_to_Coding.pdf"
+            }
+        ],
+        "grounding": 0.08
+    },
+    {
+        "timestamp": "2026-06-15 12:41:52.357276",
+        "question": "give me in matrics",
+        "latency_ms": 4400.86,
+        "chunk_ids": [
+            "organizations-100.csv_38"
+        ],
+        "answer": "I could not find the answer in the knowledge base.",
+        "citations": [
+            {
+                "source": "organizations-100.csv"
+            }
+        ],
+        "grounding": 0.0
+    },
+    {
+        "timestamp": "2026-06-16 10:03:09.262160",
+        "question": "What is Coding?",
+        "latency_ms": 23283.55,
+        "chunk_ids": [
+            "Introduction_to_Coding.pdf_0"
+        ],
+        "answer": "Coding, or computer programming, is the process of creating instructions that a computer can execute to perform specific tasks, solve problems, or automate processes. At its core, coding is about logic and communication.",
+        "citations": [
+            {
+                "source": "Introduction_to_Coding.pdf"
+            }
+        ],
+        "grounding": 1.0
+    },
+    {
+        "timestamp": "2026-06-16 11:36:06.937938",
+        "question": "Hi",
+        "latency_ms": 19872.38,
+        "chunk_ids": [
+            "organizations-100.csv_59"
+        ],
+        "answer": "I could not find the answer in the knowledge base.",
+        "citations": [
+            {
+                "source": "organizations-100.csv"
+            }
+        ],
+        "grounding": 0.0
+    },
+    {
+        "timestamp": "2026-06-16 11:38:46.579550",
+        "question": "What is Coding?",
+        "latency_ms": 15630.13,
+        "chunk_ids": [
+            "Introduction_to_Coding.pdf_0"
+        ],
+        "answer": "Coding, or computer programming, is the process of creating instructions that a computer can execute to perform specific tasks, solve problems, or automate processes. At its core, coding is about logic and communication.",
+        "citations": [
+            {
+                "source": "Introduction_to_Coding.pdf"
+            }
+        ],
+        "grounding": 1.0
+    },
+    {
+        "timestamp": "2026-06-16 11:39:04.112631",
+        "question": "What is Rag?",
+        "latency_ms": 5410.96,
+        "chunk_ids": [
+            "b6a1202b-2c22-4302-836c-81f55d5a245e"
+        ],
+        "answer": "Retrieval-Augmented Generation (RAG).",
+        "citations": [
+            {
+                "source": "Retrieval_Augmented_Generation_Overview.docx"
+            }
+        ],
+        "grounding": 0.67
+    },
+    {
+        "timestamp": "2026-06-16 11:39:43.960470",
+        "question": "sdfwe",
+        "latency_ms": 4254.03,
+        "chunk_ids": [
+            "organizations-100.csv_32"
+        ],
+        "answer": "I could not find the answer in the knowledge base.",
+        "citations": [
+            {
+                "source": "organizations-100.csv"
+            }
+        ],
+        "grounding": 0.0
+    },
+    {
+        "timestamp": "2026-06-16 11:46:57.250554",
+        "question": "Give me the five data from .csv file",
+        "latency_ms": 16643.75,
+        "chunk_ids": [
+            "0795ff0f-0791-4e44-a9e2-c13c131354f2"
+        ],
+        "answer": "I could not find the answer in the knowledge base.",
+        "citations": [
+            {
+                "source": "Introduction_to_Coding.pdf"
+            }
+        ],
+        "grounding": 0.22
+    },
+    {
+        "timestamp": "2026-06-16 11:55:25.478846",
+        "question": "Show me the documents name what i have uploaded",
+        "latency_ms": 15539.49,
+        "chunk_ids": [
+            "organizations-100.csv_70"
+        ],
+        "answer": "I could not find the answer in the knowledge base.",
+        "citations": [
+            {
+                "source": "organizations-100.csv"
+            }
+        ],
+        "grounding": 0.0
+    },
+    {
+        "timestamp": "2026-06-16 11:56:09.147745",
+        "question": "Give me two example of Generative Ai tool",
+        "latency_ms": 7872.0,
+        "chunk_ids": [
+            "Case Study - Generative AI Tools.pdf_0"
+        ],
+        "answer": "Here are two examples of Generative AI tools mentioned in the context:\n\n1. GPT-4 by OpenAI\n2. (No additional specific examples are given, but other top gen AI tools may be discussed later.)",
+        "citations": [
+            {
+                "source": "Case Study - Generative AI Tools.pdf"
+            }
+        ],
+        "grounding": 0.41
+    },
+    {
+        "timestamp": "2026-06-16 11:56:48.398766",
+        "question": "explain about OpenAI",
+        "latency_ms": 9325.7,
+        "chunk_ids": [
+            "Case Study - Generative AI Tools.pdf_1"
+        ],
+        "answer": "OpenAI is a technology company that specializes in artificial intelligence and machine learning. The most notable product from OpenAI is the chatbot named ChatGPT, which was designed to simulate human-like conversations and has gained significant popularity among users. Additionally, OpenAI's other notable products include new AI plugins for internet browsing and coding, as well as an API for developers to integrate their own applications with AI capabilities.",
+        "citations": [
+            {
+                "source": "Case Study - Generative AI Tools.pdf"
+            }
+        ],
+        "grounding": 0.21
+    },
+    {
+        "timestamp": "2026-06-16 12:13:29.315419",
+        "question": "From this document give me summary",
+        "latency_ms": 17476.16,
+        "chunk_ids": [
+            "organizations-100.csv_16"
+        ],
+        "answer": "The document appears to be a reference or record for a project. Here is a brief summary:\n\n* Project: Hodge-Ayers\n* Location: Honduras\n* Date: 1990\n* Department: Facilities Services\n* Description: Future-proofed radical implementation",
+        "citations": [
+            {
+                "source": "organizations-100.csv"
+            }
+        ],
+        "grounding": 0.28
+    },
+    {
+        "timestamp": "2026-06-16 12:14:35.619579",
+        "question": "Systesia",
+        "latency_ms": 4272.19,
+        "chunk_ids": [
+            "organizations-100.csv_36"
+        ],
+        "answer": "I could not find the answer in the knowledge base.",
+        "citations": [
+            {
+                "source": "organizations-100.csv"
+            }
+        ],
+        "grounding": 0.0
+    },
+    {
+        "timestamp": "2026-06-16 15:05:36.714541",
+        "question": "what is coding?",
+        "latency_ms": 20686.46,
+        "chunk_ids": [
+            "783e046e-f2f5-49fe-9312-b44defe33270"
+        ],
+        "answer": "Coding, or computer programming, is the process of creating instructions that a computer can execute to perform specific tasks, solve problems, or automate processes. At its core, coding is about logic and communication.",
+        "citations": [
+            {
+                "source": "Introduction_to_Coding.pdf"
+            }
+        ],
+        "grounding": 1.0
+    },
+    {
+        "timestamp": "2026-06-16 15:06:01.739546",
+        "question": "who is virat kohli?",
+        "latency_ms": 6144.01,
+        "chunk_ids": [
+            "b8630b96-315d-4ac3-9a22-8aa077fe97f1"
+        ],
+        "answer": "Virat Kohli is widely regarded as one of the greatest batsmen in the history of cricket.",
+        "citations": [
+            {
+                "source": "Virat_Kohli_Biography.pdf"
+            }
+        ],
+        "grounding": 0.79
     }
 ]

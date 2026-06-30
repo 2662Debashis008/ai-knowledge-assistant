@@ -160,51 +160,59 @@
         }
     },
     {
-        "chunk_id": "KidCare Platform Overview.docx_0",
-        "text": "KidCare Platform Overview:\nKidCare is a child healthcare, nutrition and care management platform that is designed for helping parents, guardians, care partners, and nutritionists to monitor child's health, diet plan, and to manage appointments, tele-consultation. This platform includes manage doctor appointments, vaccinations, growth chart tracking, vaccination details, telephone consultations, online & offline (Walk-in) visited patients\u2019 details, Prescription, and medical records.",
+        "chunk_id": "Introduction_to_Coding.pdf_0",
+        "text": "Introduction to Coding\nFoundations of Computer Programming & Problem Solving\nWhat is Coding?\nCoding, or computer programming, is the process of creating instructions that a computer can execute to\nperform specific tasks, solve problems, or automate processes. At its core, coding is about logic and\ncommunication. \n1. Core Concepts of Programming\nRegardless of which programming language you choose to learn first, almost all of them share a foundational",
         "metadata": {
-            "source": "KidCare Platform Overview.docx",
+            "source": "Introduction_to_Coding.pdf",
             "chunk": 0
         }
     },
     {
-        "chunk_id": "KidCare Platform Overview.docx_1",
-        "text": "This platform solves to decrease the manual work and directly gives all the information to the parents in a single mobile application. This gives parents quick and easy access to all the important healthcare information.\nParents/Guardian User Flow:\nFirstly, Install and activate the KidCare application.",
+        "chunk_id": "Introduction_to_Coding.pdf_1",
+        "text": "set of core concepts. Mastering these fundamentals allows you to adapt to any technological stack easily.\nVariables and Data Types\nVariables act as containers for storing data values. Each variable is assigned a data type, which tells the\ncomputer how to interpret the value.\nIntegers / Floats: Numeric values (e.g., 42, 3.14).\nStrings: Textual data enclosed in quotes (e.g., \"Hello, World!\").\nBooleans: Logical states representing either True or False.\nControl Flow (Conditionals)",
         "metadata": {
-            "source": "KidCare Platform Overview.docx",
+            "source": "Introduction_to_Coding.pdf",
             "chunk": 1
         }
     },
     {
-        "chunk_id": "KidCare Platform Overview.docx_2",
-        "text": "Doctor will first add all the needed information (Name, DOB, age, sex) of child. After this, OTP will be generated. Then, Doctor will checkup the child and make a prescription/ diet plan/ healthcare information. Parents can login with a OTP which is generated from the Admin panel by Doctor and can see all the information of their child which is already Doctor uploaded in the App. Users can view the prescription, personalized diet plan. This platform has a notifications/ remainders options.",
+        "chunk_id": "Introduction_to_Coding.pdf_2",
+        "text": "Control Flow (Conditionals)\nConditionals allow code to make decisions and execute specific blocks based on whether a particular\nscenario is met.\n\u2022 \n\u2022 \n\u2022 \nif user_logged_in:\nprint(\"Welcome back!\")\nelse:\nprint(\"Please sign in.\")\nIntroduction to Coding: Foundations & Fundamentals\n1\nLoops\nLoops instruct the computer to repeat a block of code multiple times, saving developers from writing repetitive\nlogic.",
         "metadata": {
-            "source": "KidCare Platform Overview.docx",
+            "source": "Introduction_to_Coding.pdf",
             "chunk": 2
         }
     },
     {
-        "chunk_id": "KidCare Platform Overview.docx_3",
-        "text": "platform has a notifications/ remainders options. Users can monitor child\u2019s progress and update profile and preferences.",
+        "chunk_id": "Introduction_to_Coding.pdf_3",
+        "text": "logic.\nFor Loops: Used when you know beforehand how many times a cycle should run (e.g., iterating through a\nlist of 10 items).\nWhile Loops: Used when execution continues until a specific condition changes.\n2. Popular Programming Languages\nDifferent  languages  are  tailored  for  different  types  of  development.  Below  is  an  overview  of  the  most\nprominent options today:\nLanguage\nPrimary Use Case\nDifficulty\nPython\nData Science, AI, Scripting, Web backends\nBeginner-Friendly\nJavaScript",
         "metadata": {
-            "source": "KidCare Platform Overview.docx",
+            "source": "Introduction_to_Coding.pdf",
             "chunk": 3
         }
     },
     {
-        "chunk_id": "KidCare Platform Overview.docx_4",
-        "text": "Core Features:\nThis platform includes the child profile management, growth chart, Appointment systems like booking, status tracking, teleconsultation support, and walk-in consultation, Medical documentation like Prescription, Pathology reports, Radiology reports, and download & share options, vaccination information details, and parents profile management.\nValue Proposition:",
+        "chunk_id": "Introduction_to_Coding.pdf_4",
+        "text": "Beginner-Friendly\nJavaScript\nWeb Development (Frontend & Backend), Apps\nModerate\nJava\nEnterprise Software, Android App Development\nModerate to High\nC++\nGame Engines, Operating Systems, High-Performance Systems\nHigh\n3. The Software Development Cycle\nWriting individual lines of code is only one phase of building a software solution. Developers navigate an\niterative pipeline to build reliable systems:\nRequirements & Analysis: Defining what needs to be solved.",
         "metadata": {
-            "source": "KidCare Platform Overview.docx",
+            "source": "Introduction_to_Coding.pdf",
             "chunk": 4
         }
     },
     {
-        "chunk_id": "KidCare Platform Overview.docx_5",
-        "text": "Value Proposition:\n KidCare provides a digitalized platform for parents to manage every aspects of their child\u2019s healthcare. The benefits of this platform are \u2013\nReduces manual record \nEasy access to keep medical information\nFaster doctor appointments\nContinuous growth monitoring\nSecure and storage of health documents",
+        "chunk_id": "Introduction_to_Coding.pdf_5",
+        "text": "Design: Architecting the logic, data flow, and user interfaces.\nImplementation (Coding): Translating design structures into functional software code.\nTesting & Debugging: Systematically identifying and neutralizing bugs or computational errors.\nDeployment & Maintenance: Launching the application and updating it to handle modern updates.\nPro-Tip for Beginners\nDon't try to memorize syntax. Focus on understanding logic, problem decomposition, and algorithmic",
         "metadata": {
-            "source": "KidCare Platform Overview.docx",
+            "source": "Introduction_to_Coding.pdf",
             "chunk": 5
+        }
+    },
+    {
+        "chunk_id": "Introduction_to_Coding.pdf_6",
+        "text": "thinking. The syntax can always be quickly looked up in documentation. \n\u2022 \n\u2022 \n1. \n2. \n3. \n4. \n5. \nIntroduction to Coding: Foundations & Fundamentals\n2",
+        "metadata": {
+            "source": "Introduction_to_Coding.pdf",
+            "chunk": 6
         }
     },
     {
@@ -1013,6 +1021,86 @@
         "metadata": {
             "source": "organizations-100.csv",
             "chunk": 100
+        }
+    },
+    {
+        "chunk_id": "Retrieval_Augmented_Generation_Overview.docx_0",
+        "text": "Retrieval-Augmented Generation (RAG)\nArchitecting the Next Generation of Knowledge-Intensive AI Systems\n1. Introduction to RAG\nLarge Language Models (LLMs) have demonstrated remarkable capabilities across natural language processing tasks. However, they possess fundamental limitations: they are bound to a static snapshot of training data, have no innate access to private enterprise repositories, and are prone to plausible-sounding inaccuracies known as hallucinations.",
+        "metadata": {
+            "source": "Retrieval_Augmented_Generation_Overview.docx",
+            "chunk": 0
+        }
+    },
+    {
+        "chunk_id": "Retrieval_Augmented_Generation_Overview.docx_1",
+        "text": "Retrieval-Augmented Generation (RAG), first formalized by Lewis et al. in 2020, addresses these gaps by decoupling the knowledge source from the reasoning engine. Instead of relying solely on internal weights to generate responses, a RAG framework queries an external data source dynamically based on the user's input, fetches relevant context, and passes both the context and the original prompt to the LLM to formulate an accurate, verifiable answer.",
+        "metadata": {
+            "source": "Retrieval_Augmented_Generation_Overview.docx",
+            "chunk": 1
+        }
+    },
+    {
+        "chunk_id": "Retrieval_Augmented_Generation_Overview.docx_2",
+        "text": "2. The Technical Pipeline and Core Architecture\nA standard operational RAG pipeline can be split into two discrete, asynchronous workflows: Data Ingestion (Offline) and Query Execution (Online).\nPhase A: The Ingestion Pipeline (Offline Storage)\nDocument Parsing: Raw data files (PDFs, Markdown, relational databases, internal wikis) are extracted and stripped of unnecessary formatting.",
+        "metadata": {
+            "source": "Retrieval_Augmented_Generation_Overview.docx",
+            "chunk": 2
+        }
+    },
+    {
+        "chunk_id": "Retrieval_Augmented_Generation_Overview.docx_3",
+        "text": "Chunking Strategies: To accommodate fixed LLM context windows, long-form documents are partitioned into logical segments. Typical heuristics range from structural (paragraph-based) to semantic chunking (calculated semantic shift boundaries).\nVector Embedding: Each structured text chunk is passed through an embedding model (e.g., OpenAI text-embedding-3 or HuggingFace BGE) converting semantic text meaning into high-dimensional numerical vectors.",
+        "metadata": {
+            "source": "Retrieval_Augmented_Generation_Overview.docx",
+            "chunk": 3
+        }
+    },
+    {
+        "chunk_id": "Retrieval_Augmented_Generation_Overview.docx_4",
+        "text": "Vector Database Storage: The resulting embeddings are indexed within specialized vector stores (e.g., Pinecone, Milvus, Qdrant) alongside original text metadata for sub-millisecond similarity search lookup.\nPhase B: The Retrieval & Generation Pipeline (Online Runtime)\nUser Query Transformation: The inbound raw user question is embedded using the exact same vector model employed during ingestion.",
+        "metadata": {
+            "source": "Retrieval_Augmented_Generation_Overview.docx",
+            "chunk": 4
+        }
+    },
+    {
+        "chunk_id": "Retrieval_Augmented_Generation_Overview.docx_5",
+        "text": "Similarity Search Vector Retrieval: The database computes distance metrics (e.g., Cosine Similarity, Dot Product) to locate Top-K nearest neighbor text chunks closest to the query embedding vector.\nPrompt Synthesis: The original user query and the retrieved textual context blocks are dynamically structured into an engineered prompt template.",
+        "metadata": {
+            "source": "Retrieval_Augmented_Generation_Overview.docx",
+            "chunk": 5
+        }
+    },
+    {
+        "chunk_id": "Retrieval_Augmented_Generation_Overview.docx_6",
+        "text": "Informed Generation: The compiled prompt is forwarded to the LLM. The model reads the context inline and synthesizes an authoritative response bounded safely to the provided sources.\n3. RAG vs. Fine-Tuning Architectural Matrix\nWhen optimizing LLM behavior for domain-specific knowledge injection, architects face a decision matrix between RAG frameworks and standard Fine-Tuning workflows.",
+        "metadata": {
+            "source": "Retrieval_Augmented_Generation_Overview.docx",
+            "chunk": 6
+        }
+    },
+    {
+        "chunk_id": "Retrieval_Augmented_Generation_Overview.docx_7",
+        "text": "4. Advanced Optimization Paradigms\nVanilla (Naive) RAG architectures often suffer from performance decay as enterprise repositories scale. Production-grade systems employ advanced strategies to sustain strict accuracy bounds:\nMulti-Stage Retrieval and Reranking",
+        "metadata": {
+            "source": "Retrieval_Augmented_Generation_Overview.docx",
+            "chunk": 7
+        }
+    },
+    {
+        "chunk_id": "Retrieval_Augmented_Generation_Overview.docx_8",
+        "text": "Multi-Stage Retrieval and Reranking\nTo counteract embedding model limitations, modern setups split retrieval into two steps. First, a broad, computationally inexpensive bi-encoder search returns a wide pool of documents (e.g., Top-50). Second, a powerful cross-encoder model (a Reranker) processes the small subset, analyzing deep lexical-semantic alignment to output a precise Top-5 configuration for final prompt embedding.\nQuery Rewriting and Expansion",
+        "metadata": {
+            "source": "Retrieval_Augmented_Generation_Overview.docx",
+            "chunk": 8
+        }
+    },
+    {
+        "chunk_id": "Retrieval_Augmented_Generation_Overview.docx_9",
+        "text": "Query Rewriting and Expansion\nHuman queries are frequently ambiguous, fragmented, or missing core context. Advanced RAG configurations leverage a secondary lightweight LLM layer that normalizes or multiplies input queries. Methods like Hypothetical Document Embeddings (HyDE) generate a theoretical answer paragraph before lookup, querying the index with the synthetic passage to maximize vector semantic match alignment.",
+        "metadata": {
+            "source": "Retrieval_Augmented_Generation_Overview.docx",
+            "chunk": 9
         }
     }
 ]

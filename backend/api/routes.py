@@ -1,22 +1,16 @@
 from fastapi import APIRouter
 from fastapi import UploadFile
-from fastapi import File
-from fastapi import HTTPException
 from fastapi.responses import FileResponse
 
-import shutil
 import os
 
 from models.schemas import (
-    AskRequest,ExportRequest
+    AskRequest,
+    ExportRequest
 )
 
 from services.rag_service import (
     ask_question
-)
-
-from services.indexing_service import (
-    rebuild_index
 )
 
 from services.metrics_service import (
@@ -30,7 +24,6 @@ from services.export_service import (
 )
 
 from services.file_service import (
-    delete_file,
     save_file
 )
 
@@ -47,7 +40,9 @@ from services.indexing_service import (
 )
 
 from services.history_service import (
-    get_history
+    get_history,
+    delete_chat,
+    create_chat
 )
 
 from services.evaluation_service import (
@@ -63,6 +58,9 @@ os.makedirs(
     exist_ok=True
 )
 
+
+# ---------------- HOME ---------------- #
+
 @router.get("/")
 def home():
 
@@ -71,6 +69,8 @@ def home():
         "AI Knowledge Assistant Running"
     }
 
+
+# ---------------- UPLOAD ---------------- #
 
 @router.post("/upload")
 async def upload_file(file: UploadFile):
@@ -86,28 +86,38 @@ async def upload_file(file: UploadFile):
         index_new_chunks(chunks)
 
         return {
-            "message": "Uploaded and Indexed Successfully",
-            "file": file.filename
+            "message":
+            "Uploaded and Indexed Successfully",
+            "file":
+            file.filename
         }
 
     except Exception as e:
 
-        print("UPLOAD ERROR:")
-        print(str(e))
-
         return {
-            "error": str(e)
+            "error":
+            str(e)
         }
 
+
+# ---------------- ASK ---------------- #
+
 @router.post("/ask")
-def ask(
-        request:
-        AskRequest
-):
+def ask(request: AskRequest):
 
     return ask_question(
-        request.question
+        request.question,
+        request.chat_id
     )
+
+#---------------Create New Chat -----------#
+
+@router.post("/new-chat")
+def new_chat():
+
+    return create_chat()
+
+# ---------------- HEALTH ---------------- #
 
 @router.get("/health")
 def health():
@@ -116,6 +126,9 @@ def health():
         "status": "healthy",
         "service": "AI Knowledge Assistant"
     }
+
+
+# ---------------- DOCUMENTS ---------------- #
 
 @router.get("/documents")
 def documents():
@@ -129,45 +142,16 @@ def documents():
         "documents": files
     }
 
-@router.delete("/documents/{filename}")
-def delete_document(filename: str):
 
-    try:
-        deleted = delete_file(
-            filename
-        )
-
-        if not deleted:
-            raise HTTPException(
-                status_code=404,
-                detail="Document not found"
-            )
-
-        rebuild_index()
-
-        return {
-            "message": "Document deleted",
-            "file": filename
-        }
-
-    except HTTPException:
-        raise
-
-    except ValueError as error:
-        raise HTTPException(
-            status_code=400,
-            detail=str(error)
-        )
-
-@router.post("/reindex")
-def reindex():
-
-    return rebuild_index()
+# ---------------- METRICS ---------------- #
 
 @router.get("/metrics")
 def metrics():
 
     return get_metrics()
+
+
+# ---------------- EVALUATION ---------------- #
 
 @router.get("/evaluate")
 def evaluate():
@@ -175,8 +159,27 @@ def evaluate():
     return evaluate_recall()
 
 
+# ---------------- HISTORY ---------------- #
+
+@router.get("/history")
+def history():
+
+    return get_history()
+
+
+# ---------------- DELETE CHAT ---------------- #
+
+@router.delete("/history/{chat_id}")
+def delete_history(chat_id: str):
+
+    return delete_chat(chat_id)
+
+# ---------------- EXPORT DOCX ---------------- #
+
 @router.post("/export/docx")
-def export_docx(request: ExportRequest):
+def export_docx(
+    request: ExportRequest
+):
 
     file_path = export_to_docx(
         request.question,
@@ -189,8 +192,13 @@ def export_docx(request: ExportRequest):
         media_type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
     )
 
+
+# ---------------- EXPORT EXCEL ---------------- #
+
 @router.post("/export/excel")
-def export_excel(request: ExportRequest):
+def export_excel(
+    request: ExportRequest
+):
 
     file_path = export_to_excel(
         request.question,
@@ -204,8 +212,12 @@ def export_excel(request: ExportRequest):
     )
 
 
+# ---------------- EXPORT PDF ---------------- #
+
 @router.post("/export/pdf")
-def export_pdf(request: ExportRequest):
+def export_pdf(
+    request: ExportRequest
+):
 
     file_path = export_to_pdf(
         request.question,
@@ -217,9 +229,3 @@ def export_pdf(request: ExportRequest):
         filename="answer.pdf",
         media_type="application/pdf"
     )
-
-
-@router.get("/history")
-def history():
-
-    return get_history()
